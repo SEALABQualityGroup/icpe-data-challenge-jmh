@@ -7,6 +7,8 @@ The dataset contains performance measurements of JMH microbenchmarks from 30 Jav
 
 The measurements are organized in time series available in the [timeseries](timeseries) folder. Morevover, the raw samples (JMH output) in JSON format can be found on [https://zenodo.org/record/5961018](https://zenodo.org/record/5961018) (~65GB when unpacked).
 
+Questions about the dataset can be asked by opening issues on this repository, or by sendind an e-mail to icpe2023-data-challenge@easychair.org.
+
 ## Usage example
 
 In the python script [example_viz.py](example_viz.py) you can find an example of how to read the data and generate a simple plot for a random benchmark in the dataset. The script requires `pandas` and `matplotlib`:
