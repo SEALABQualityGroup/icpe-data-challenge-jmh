@@ -25,6 +25,6 @@ The dataset was originally created for the paper:
 
 Luca Traini, Vittorio Cortellessa, Daniele Di Pompeo, Michele Tucci  
 **Towards effective assessment of steady state performance in Java software: Are we there yet?**  
-Accepted for publication in Empirical Software Engineering (EMSE) - 2022  
-[https://doi.org/10.48550/arXiv.2209.15369](https://doi.org/10.48550/arXiv.2209.15369)  
+Empirical Software Engineering (EMSE) - 28, 13 (2023)  
+[https://doi.org/10.1007%2Fs10664-022-10247-x](https://doi.org/10.1007%2Fs10664-022-10247-x)  
 [https://github.com/SEALABQualityGroup/steady-state](https://github.com/SEALABQualityGroup/steady-state)
